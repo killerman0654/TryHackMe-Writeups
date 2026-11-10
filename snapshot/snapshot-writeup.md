@@ -196,7 +196,7 @@ We can check this by looking at the source code of the page.
 </html>
 ```
 
-We can clearly see that it's just a blank upload form, so we can indeed upload anything that we want. We can get a reverse shell through this by uploading a revershell.php file to it. 
+We can clearly see that it's just a blank upload form, so we can indeed upload anything that we want. We can get a reverse shell through this by uploading a revereshell.php file to it. 
 
 You can find the script by searching for it on any browser. There are a bunch available, but I went ahead with this one: https://raw.githubusercontent.com/pentestmonkey/php-reverse-shell/refs/heads/master/php-reverse-shell.php
 
